@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1666133014 source:c:\users\presentacion\desktop\ejercicio1\src\dupla.cpp
+
+1666133271 source:c:\users\presentacion\desktop\ejercicio1\main.cpp
+	<iostream>
+	<array>
+	"Dupla.h"
+
+1666133253 c:\users\presentacion\desktop\ejercicio1\include\dupla.h
+

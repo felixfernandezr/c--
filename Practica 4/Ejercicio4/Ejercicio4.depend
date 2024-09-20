@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1666138044 source:c:\users\presentacion\desktop\ejercicio4\main.cpp
+	<iostream>
+	<vector>
+
+1666137961 source:c:\users\presentacion\desktop\ejercicio4\src\alumno.cpp
+	"Alumno.h"
+
+1666137960 c:\users\presentacion\desktop\ejercicio4\include\alumno.h
+
+1666137951 source:c:\users\presentacion\desktop\ejercicio4\src\materia.cpp
+	"Materia.h"
+
+1666137951 c:\users\presentacion\desktop\ejercicio4\include\materia.h
+
+1666126288 source:c:\users\felix\desktop\practica 4\ejercicio4\main.cpp
+	<iostream>
+	<vector>
+
+1667314747 source:c:\users\felix\desktop\practica 4\ejercicio4\src\alumno.cpp
+	"Alumno.h"
+
+1666126288 c:\users\felix\desktop\practica 4\ejercicio4\include\alumno.h
+	"string"
+
+1667321232 source:c:\users\felix\desktop\practica 4\ejercicio4\src\materia.cpp
+	"Materia.h"
+
+1667314818 c:\users\felix\desktop\practica 4\ejercicio4\include\materia.h
+	<string>
+	<set>
+	"Alumno.h"
+

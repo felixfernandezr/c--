@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1667330930 source:c:\users\felix\desktop\ej4final\src\alumno.cpp
+	"Alumno.h"
+
+1666281348 c:\users\felix\desktop\ej4final\include\alumno.h
+	<string>
+
+1667334472 source:c:\users\felix\desktop\ej4final\src\carrera.cpp
+	"Carrera.h"
+	<vector>
+	<set>
+
+1666283120 c:\users\felix\desktop\ej4final\include\carrera.h
+	<string>
+	"Materia.h"
+	<vector>
+	<set>
+
+1667330207 c:\users\felix\desktop\ej4final\include\materia.h
+	"Alumno.h"
+	<set>
+
+1666366408 source:c:\users\felix\desktop\ej4final\src\materia.cpp
+	"Materia.h"
+	<set>
+
+1667330231 source:c:\users\felix\desktop\ej4final\main.cpp
+	<iostream>
+	<tau/tau.h>
+	"Carrera.h"
+
+1653399812 c:\users\felix\desktop\ej4final\\tau\tau.h
+	<tau/types.h>
+	<tau/misc.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<errno.h>
+	<libgen.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<signal.h>
+	<time.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<Windows.h>
+	<io.h>
+	<valgrind.h>
+	<exception>
+	<limits.h>
+	<time.h>
+	<sys/syscall.h>
+	<unistd.h>
+	<time.h>
+	<mach/mach_time.h>
+
+1653399812 c:\users\felix\desktop\ej4final\\tau\types.h
+	<tau/compilers.h>
+	<cstdint>
+	<stdint.h>
+
+1653399812 c:\users\felix\desktop\ej4final\\tau\compilers.h
+
+1653399812 c:\users\felix\desktop\ej4final\\tau\misc.h
+	<inttypes.h>
+
+1667330231 source:c:\users\felix\desktop\progra2\practica 5\ej4final\main.cpp
+	<iostream>
+	<tau/tau.h>
+	"Carrera.h"
+
+1666283120 c:\users\felix\desktop\progra2\practica 5\ej4final\include\carrera.h
+	<string>
+	"Materia.h"
+	<vector>
+	<set>
+
+1667330207 c:\users\felix\desktop\progra2\practica 5\ej4final\include\materia.h
+	"Alumno.h"
+	<set>
+
+1666281348 c:\users\felix\desktop\progra2\practica 5\ej4final\include\alumno.h
+	<string>
+
+1667330930 source:c:\users\felix\desktop\progra2\practica 5\ej4final\src\alumno.cpp
+	"Alumno.h"
+
+1667334472 source:c:\users\felix\desktop\progra2\practica 5\ej4final\src\carrera.cpp
+	"Carrera.h"
+	<vector>
+	<set>
+
+1666366408 source:c:\users\felix\desktop\progra2\practica 5\ej4final\src\materia.cpp
+	"Materia.h"
+	<set>
+

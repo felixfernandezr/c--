@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1662505604 source:x:\presentacion\documents\progrmacion\ejercicio1_2\src\coleccionenteros.cpp
+	"ColeccionEnteros.h"
+
+1662508368 x:\presentacion\documents\progrmacion\ejercicio1_2\include\coleccionenteros.h
+
+1662507681 source:x:\presentacion\documents\progrmacion\ejercicio1_2\main.cpp
+	<tau/tau.h>
+	"ColeccionEnteros.h"
+	<iostream>
+	"ColeccionEnteros.h"
+
+1653414212 x:\presentacion\documents\progrmacion\ejercicio1_2\\tau\tau.h
+	<tau/types.h>
+	<tau/misc.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<errno.h>
+	<libgen.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<signal.h>
+	<time.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<Windows.h>
+	<io.h>
+	<valgrind.h>
+	<exception>
+	<limits.h>
+	<time.h>
+	<sys/syscall.h>
+	<unistd.h>
+	<time.h>
+	<mach/mach_time.h>
+
+1653414212 x:\presentacion\documents\progrmacion\ejercicio1_2\\tau\types.h
+	<tau/compilers.h>
+	<cstdint>
+	<stdint.h>
+
+1653414212 x:\presentacion\documents\progrmacion\ejercicio1_2\\tau\compilers.h
+
+1653414212 x:\presentacion\documents\progrmacion\ejercicio1_2\\tau\misc.h
+	<inttypes.h>
+
+1662505604 source:c:\users\felix\desktop\ejercicio1_3\src\coleccionenteros.cpp
+	"ColeccionEnteros.h"
+
+1662508368 c:\users\felix\desktop\ejercicio1_3\include\coleccionenteros.h
+
+1662508736 source:c:\users\felix\desktop\ejercicio1_3\main.cpp
+	<tau/tau.h>
+	<string>
+	"ColeccionEnteros.h"
+	<iostream>
+	"ColeccionEnteros.h"
+
+1648614826 c:\users\felix\desktop\ejercicio1_3\\tau\tau.h
+	<tau/types.h>
+	<tau/misc.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<errno.h>
+	<libgen.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<signal.h>
+	<time.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<Windows.h>
+	<io.h>
+	<valgrind.h>
+	<exception>
+	<limits.h>
+	<time.h>
+	<sys/syscall.h>
+	<unistd.h>
+	<time.h>
+	<mach/mach_time.h>
+
+1648614826 c:\users\felix\desktop\ejercicio1_3\\tau\types.h
+	<tau/compilers.h>
+	<cstdint>
+	<stdint.h>
+
+1648614826 c:\users\felix\desktop\ejercicio1_3\\tau\compilers.h
+
+1648614826 c:\users\felix\desktop\ejercicio1_3\\tau\misc.h
+	<inttypes.h>
+
+1663716238 source:c:\users\felix\desktop\ejercicio1_3 - copia\main.cpp
+	<tau/tau.h>
+	"Actor.h"
+	"Pelicula.h"
+
+1663697514 c:\users\felix\desktop\ejercicio1_3 - copia\include\actor.h
+	"tiposGalardones.h"
+	<string>
+
+1663694515 c:\users\felix\desktop\ejercicio1_3 - copia\include\tiposgalardones.h
+
+1663702480 c:\users\felix\desktop\ejercicio1_3 - copia\include\pelicula.h
+	<string>
+	"Actor.h"
+
+1663714025 source:c:\users\felix\desktop\ejercicio1_3 - copia\src\actor.cpp
+	"Actor.h"
+
+1665357066 source:c:\users\felix\desktop\parcial1p2\main.cpp
+	<tau/tau.h>
+	"Actor.h"
+	"Pelicula.h"
+
+1663697514 c:\users\felix\desktop\parcial1p2\include\actor.h
+	"tiposGalardones.h"
+	<string>
+
+1663694515 c:\users\felix\desktop\parcial1p2\include\tiposgalardones.h
+
+1663702480 c:\users\felix\desktop\parcial1p2\include\pelicula.h
+	<string>
+	"Actor.h"
+
+1663714025 source:c:\users\felix\desktop\parcial1p2\src\actor.cpp
+	"Actor.h"
+
+1665357056 source:c:\users\felix\desktop\parcial1p2\src\pelicula.cpp
+	"Pelicula.h"
+	<iostream>
+

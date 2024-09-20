@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1667666983 source:c:\users\felix\desktop\practica 5\ejercicio2\main.cpp
+	<iostream>
+	<tau/tau.h>
+	<vector>
+	"Cuenta.h"
+	"CajaAhorro.h"
+	"CuentaCorriente.h"
+
+1667624645 source:c:\users\felix\desktop\practica 5\ejercicio2\src\cajaahorro.cpp
+	"CajaAhorro.h"
+	<iostream>
+
+1667621994 c:\users\felix\desktop\practica 5\ejercicio2\include\cajaahorro.h
+	"Cuenta.h"
+
+1667621578 source:c:\users\felix\desktop\practica 5\ejercicio2\src\cliente.cpp
+	"Cliente.h"
+	<string>
+
+1667621578 c:\users\felix\desktop\practica 5\ejercicio2\include\cliente.h
+	<string>
+
+1667667085 source:c:\users\felix\desktop\practica 5\ejercicio2\src\cuenta.cpp
+	<set>
+	<vector>
+	<string>
+	"Cuenta.h"
+
+1667623627 c:\users\felix\desktop\practica 5\ejercicio2\include\cuenta.h
+	<set>
+	<vector>
+	<string>
+	"Cliente.h"
+
+1667666726 source:c:\users\felix\desktop\practica 5\ejercicio2\src\cuentacorriente.cpp
+	"CuentaCorriente.h"
+	<vector>
+
+1667627314 c:\users\felix\desktop\practica 5\ejercicio2\include\cuentacorriente.h
+	"Cuenta.h"
+
+1653399812 c:\users\felix\desktop\practica 5\ejercicio2\tau\tau.h
+	<tau/types.h>
+	<tau/misc.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<errno.h>
+	<libgen.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<signal.h>
+	<time.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<Windows.h>
+	<io.h>
+	<valgrind.h>
+	<exception>
+	<limits.h>
+	<time.h>
+	<sys/syscall.h>
+	<unistd.h>
+	<time.h>
+	<mach/mach_time.h>
+
+1653399812 c:\users\felix\desktop\practica 5\ejercicio2\tau\types.h
+	<tau/compilers.h>
+	<cstdint>
+	<stdint.h>
+
+1653399812 c:\users\felix\desktop\practica 5\ejercicio2\tau\compilers.h
+
+1653399812 c:\users\felix\desktop\practica 5\ejercicio2\tau\misc.h
+	<inttypes.h>
+

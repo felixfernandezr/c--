@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1667920786 source:/home/santiago/Documentos/Codeblocks/parcial2/src/Vehiculo.cpp
+	"Vehiculo.h"
+
+1667919733 /home/santiago/Documentos/Codeblocks/parcial2/include/Vehiculo.h
+	<string>
+
+1667920823 source:/home/santiago/Documentos/Codeblocks/parcial2/src/Camion.cpp
+	"Camion.h"
+
+1667919498 /home/santiago/Documentos/Codeblocks/parcial2/include/Camion.h
+	<string>
+	"Vehiculo.h"
+
+1667920686 source:/home/santiago/Documentos/Codeblocks/parcial2/src/Camioneta.cpp
+	"Camioneta.h"
+
+1667919497 /home/santiago/Documentos/Codeblocks/parcial2/include/Camioneta.h
+	<string>
+	"Vehiculo.h"
+
+1667921733 source:/home/santiago/Documentos/Codeblocks/parcial2/src/Logistica.cpp
+	"Logistica.h"
+
+1667921339 /home/santiago/Documentos/Codeblocks/parcial2/include/Logistica.h
+	<set>
+	"Vehiculo.h"
+
+1667922549 source:/home/santiago/Documentos/Codeblocks/parcial2/main.cpp
+	<tau/tau.h>
+	"Logistica.h"
+	"Camion.h"
+	"Camioneta.h"
+
+1653414212 /home/santiago/Documentos/Codeblocks/parcial2//tau/tau.h
+	<tau/types.h>
+	<tau/misc.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<errno.h>
+	<libgen.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<signal.h>
+	<time.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<Windows.h>
+	<io.h>
+	<valgrind.h>
+	<exception>
+	<limits.h>
+	<time.h>
+	<sys/syscall.h>
+	<unistd.h>
+	<time.h>
+	<mach/mach_time.h>
+
+1653414212 /home/santiago/Documentos/Codeblocks/parcial2//tau/types.h
+	<tau/compilers.h>
+	<cstdint>
+	<stdint.h>
+
+1653414212 /home/santiago/Documentos/Codeblocks/parcial2//tau/compilers.h
+
+1653414212 /home/santiago/Documentos/Codeblocks/parcial2//tau/misc.h
+	<inttypes.h>
+
+1667945612 source:c:\users\presentacion\desktop\parcial2\src\camion.cpp
+	"Camion.h"
+
+1667919498 c:\users\presentacion\desktop\parcial2\include\camion.h
+	<string>
+	"Vehiculo.h"
+
+1667919733 c:\users\presentacion\desktop\parcial2\include\vehiculo.h
+	<string>
+
+1667945716 source:c:\users\presentacion\desktop\parcial2\src\logistica.cpp
+	"Logistica.h"
+
+1667945826 c:\users\presentacion\desktop\parcial2\include\logistica.h
+	<set>
+	"Vehiculo.h"
+
+1667947939 source:c:\users\presentacion\desktop\parcial2\main.cpp
+	<tau/tau.h>
+	<iostream>
+	"Logistica.h"
+	"Camion.h"
+	"Camioneta.h"
+	"recursividad.h"
+
+1653414212 c:\users\presentacion\desktop\parcial2\\tau\tau.h
+	<tau/types.h>
+	<tau/misc.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<errno.h>
+	<libgen.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<signal.h>
+	<time.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<Windows.h>
+	<io.h>
+	<valgrind.h>
+	<exception>
+	<limits.h>
+	<time.h>
+	<sys/syscall.h>
+	<unistd.h>
+	<time.h>
+	<mach/mach_time.h>
+
+1653414212 c:\users\presentacion\desktop\parcial2\\tau\types.h
+	<tau/compilers.h>
+	<cstdint>
+	<stdint.h>
+
+1653414212 c:\users\presentacion\desktop\parcial2\\tau\compilers.h
+
+1653414212 c:\users\presentacion\desktop\parcial2\\tau\misc.h
+	<inttypes.h>
+
+1667919497 c:\users\presentacion\desktop\parcial2\include\camioneta.h
+	<string>
+	"Vehiculo.h"
+
+1667930399 c:\users\presentacion\desktop\parcial2\include\recursividad.h
+
+1667944632 source:c:\users\presentacion\desktop\parcial2\src\vehiculo.cpp
+	"Vehiculo.h"
+
+1667945491 source:c:\users\presentacion\desktop\parcial2\src\camioneta.cpp
+	"Camioneta.h"
+

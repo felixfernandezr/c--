@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1662505102 source:x:\presentacion\documents\progrmacion\ejercicio1_2\src\coleccionenteros.cpp
+	"ColeccionEnteros.h"
+
+1662504359 x:\presentacion\documents\progrmacion\ejercicio1_2\include\coleccionenteros.h
+
+1662504865 source:x:\presentacion\documents\progrmacion\ejercicio1_2\main.cpp
+	<iostream>
+	"ColeccionEnteros.h"
+
+1662505647 source:c:\users\felix\desktop\ejercicio1_2\main.cpp
+	<iostream>
+	"ColeccionEnteros.h"
+
+1662505473 c:\users\felix\desktop\ejercicio1_2\include\coleccionenteros.h
+
+1662505604 source:c:\users\felix\desktop\ejercicio1_2\src\coleccionenteros.cpp
+	"ColeccionEnteros.h"
+

@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1667345465 source:c:\users\felix\desktop\ejej4\src\alumno.cpp
+	<string>
+	"Alumno.h"
+
+1666281348 c:\users\felix\desktop\ejej4\include\alumno.h
+	<string>
+
+1667928427 source:c:\users\felix\desktop\ejej4\src\materia.cpp
+	"Materia.h"
+	<set>
+
+1667928445 c:\users\felix\desktop\ejej4\include\materia.h
+	"Alumno.h"
+	<set>
+
+1667928456 source:c:\users\felix\desktop\ejej4\src\carrera.cpp
+	"Carrera.h"
+	<set>
+	<vector>
+
+1666283120 c:\users\felix\desktop\ejej4\include\carrera.h
+	<string>
+	"Materia.h"
+	<vector>
+	<set>
+
+1667928495 source:c:\users\felix\desktop\ejej4\main.cpp
+	<iostream>
+	<tau/tau.h>
+	"Carrera.h"
+
+1653399812 c:\users\felix\desktop\ejej4\\tau\tau.h
+	<tau/types.h>
+	<tau/misc.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<errno.h>
+	<libgen.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<signal.h>
+	<time.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<Windows.h>
+	<io.h>
+	<valgrind.h>
+	<exception>
+	<limits.h>
+	<time.h>
+	<sys/syscall.h>
+	<unistd.h>
+	<time.h>
+	<mach/mach_time.h>
+
+1653399812 c:\users\felix\desktop\ejej4\\tau\types.h
+	<tau/compilers.h>
+	<cstdint>
+	<stdint.h>
+
+1653399812 c:\users\felix\desktop\ejej4\\tau\compilers.h
+
+1653399812 c:\users\felix\desktop\ejej4\\tau\misc.h
+	<inttypes.h>
+
+1653399812 c:\users\felix\desktop\ejej4\tau\tau.h
+	<tau/types.h>
+	<tau/misc.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<errno.h>
+	<libgen.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<signal.h>
+	<time.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<Windows.h>
+	<io.h>
+	<valgrind.h>
+	<exception>
+	<limits.h>
+	<time.h>
+	<sys/syscall.h>
+	<unistd.h>
+	<time.h>
+	<mach/mach_time.h>
+
+1653399812 c:\users\felix\desktop\ejej4\tau\types.h
+	<tau/compilers.h>
+	<cstdint>
+	<stdint.h>
+
+1653399812 c:\users\felix\desktop\ejej4\tau\compilers.h
+
+1653399812 c:\users\felix\desktop\ejej4\tau\misc.h
+	<inttypes.h>
+

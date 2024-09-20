@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1662508736 source:c:\users\presentacion\desktop\ejercicio3\main.cpp
+	<tau/tau.h>
+	<string>
+	"ColeccionEnteros.h"
+	<iostream>
+	"ColeccionEnteros.h"
+
+1666136458 source:c:\users\presentacion\desktop\ejercicio3\src\coleccion.cpp
+

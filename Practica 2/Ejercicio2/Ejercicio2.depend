@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1663685454 source:c:\users\felix\desktop\practica 2\ejercicio2\main.cpp
+	<iostream>
+	"Viaje.h"
+
+1663550946 source:c:\users\felix\desktop\practica 2\ejercicio2\src\pasajero.cpp
+	"Pasajero.h"
+	"tiposDocumentos.h"
+	<string>
+
+1663548973 c:\users\felix\desktop\practica 2\ejercicio2\include\pasajero.h
+	<string>
+	"tiposDocumentos.h"
+
+1661251042 c:\users\felix\desktop\practica 2\ejercicio2\include\tiposdocumentos.h
+
+1663626763 source:c:\users\felix\desktop\practica 2\ejercicio2\src\viaje.cpp
+	"Viaje.h"
+	<string>
+	"Pasajero.h"
+	<iostream>
+
+1663626461 c:\users\felix\desktop\practica 2\ejercicio2\include\viaje.h
+	<string>
+	"Pasajero.h"
+

@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1667676895 source:c:\users\felix\desktop\practica 5\ejercicio3\main.cpp
+	<iostream>
+	<tau/tau.h>
+	"Universidad.h"
+
+1667676742 source:c:\users\felix\desktop\practica 5\ejercicio3\src\alumno.cpp
+	<string>
+	<iostream>
+	"Alumno.h"
+
+1667676966 c:\users\felix\desktop\practica 5\ejercicio3\include\alumno.h
+	<string>
+
+1667677319 source:c:\users\felix\desktop\practica 5\ejercicio3\src\universidad.cpp
+	"Universidad.h"
+	<iostream>
+
+1667676966 c:\users\felix\desktop\practica 5\ejercicio3\include\universidad.h
+	<set>
+	<string>
+	"Alumno.h"
+	"AlumnoPosgrado.h"
+	"AlumnoPregrado.h"
+	"AlumnoGrado.h"
+
+1653399812 c:\users\felix\desktop\practica 5\ejercicio3\tau\tau.h
+	<tau/types.h>
+	<tau/misc.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<errno.h>
+	<libgen.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<signal.h>
+	<time.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<Windows.h>
+	<io.h>
+	<valgrind.h>
+	<exception>
+	<limits.h>
+	<time.h>
+	<sys/syscall.h>
+	<unistd.h>
+	<time.h>
+	<mach/mach_time.h>
+
+1653399812 c:\users\felix\desktop\practica 5\ejercicio3\tau\types.h
+	<tau/compilers.h>
+	<cstdint>
+	<stdint.h>
+
+1653399812 c:\users\felix\desktop\practica 5\ejercicio3\tau\compilers.h
+
+1653399812 c:\users\felix\desktop\practica 5\ejercicio3\tau\misc.h
+	<inttypes.h>
+
+1667676673 source:c:\users\felix\desktop\practica 5\ejercicio3\src\alumnopregrado.cpp
+	"AlumnoPregrado.h"
+	<iostream>
+
+1667674117 c:\users\felix\desktop\practica 5\ejercicio3\include\alumnopregrado.h
+	<string>
+	"Alumno.h"
+
+1667676719 source:c:\users\felix\desktop\practica 5\ejercicio3\src\alumnogrado.cpp
+	"AlumnoGrado.h"
+	<iostream>
+
+1667674869 c:\users\felix\desktop\practica 5\ejercicio3\include\alumnogrado.h
+	<string>
+	"Alumno.h"
+
+1667676699 source:c:\users\felix\desktop\practica 5\ejercicio3\src\alumnoposgrado.cpp
+	"AlumnoPosgrado.h"
+	<iostream>
+
+1667676245 c:\users\felix\desktop\practica 5\ejercicio3\include\alumnoposgrado.h
+	<string>
+	"Alumno.h"
+
